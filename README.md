@@ -1,4 +1,4 @@
-# CoronaStatics
+# CoronaStatics - WordPress Live Corona Virus Plugin In Bangla Language
 CoronaStatics - Wordpress Plugin for showing live corona virus (covid-19) data in bangla language. this plugin help the bangladeshi wordpress newspapers website to show corona virus live data.
 
 API Links
