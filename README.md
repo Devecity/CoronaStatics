@@ -17,11 +17,15 @@ Shortcode
 Contact Us
 -------------------------------------------------------------------
 if you face any kind of problems, just contact with us.
+
 Email: gurujibd.official@gmail.com
 
 Thanks For Using CoronaStatics Bangladesh plugin for your website.
+
 Best Regrad,
+
 DeveCity
+
 website: https://devecity.com
 
 Video Tutorial
