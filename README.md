@@ -4,7 +4,9 @@ CoronaStatics - Wordpress Plugin for showing live corona virus (covid-19) data i
 API Links
 -------------------------------------------------------------------
 Index: https://api.devecity.com/CoronaStatics/
+
 World: https://api.devecity.com/CoronaStatics/world.php
+
 Bangladesh: https://api.devecity.com/CoronaStatics/bangladesh.php
 
 Shortcode
